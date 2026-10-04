@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="#8/bai1.csproj" />
+  <Project Path="#82/bai2.csproj" />
+  <Project Path="bai3/bai3.csproj" />
+</Solution>
